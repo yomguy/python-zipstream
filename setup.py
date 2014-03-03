@@ -13,6 +13,6 @@ setup(
     packages=find_packages(),
     keywords='zip streaming',
 
-    test_suite='nose.collector',
-    tests_require = ['nose'],
+#    test_suite='nose.collector',
+#    tests_require = ['nose'],
 )
